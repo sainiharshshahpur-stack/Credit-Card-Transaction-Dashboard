@@ -10,6 +10,7 @@ Interactive Power BI dashboard for analyzing credit card transaction data, featu
 ## Tools Used
 - Power BI
 - Excel
+- sql
 - Data Analytics
 
 ## Author
